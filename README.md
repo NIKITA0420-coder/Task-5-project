@@ -4,8 +4,6 @@ A simple full-stack Task Manager built to demonstrate server-client communicatio
 
 **Live demo:** https://task-manager-nl0z.onrender.com/
 
-> Hosted on Render's free tier — the app may take 30–60 seconds to wake up if it's been idle.
-
 ## Features
 
 - Full CRUD REST API (Create, Read, Update, Delete tasks)
